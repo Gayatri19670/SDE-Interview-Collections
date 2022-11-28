@@ -22,3 +22,6 @@ function result(str_1, str_2){
     return res;
 }
 result(str_1, str_2);
+
+
+// GFG IDE Link - https://ide.geeksforgeeks.org/415f818c-dc69-4e5d-bf33-55c07128252e
